@@ -1,0 +1,1 @@
+export const data_types = ["people_vaccinated_per_hundred", "total_cases_per_million", "total_deaths_per_million"]
