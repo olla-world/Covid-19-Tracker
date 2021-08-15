@@ -4,7 +4,7 @@ This a web app to visualize the current condition of covid-19 around the world.
 
 > [Live](https://covid-19-tracker-1234.web.app/)
 
-- **Faramework:** VueJS
+- **Framework:** VueJS
 - **UI-Framework:** Vuetify
 - **Library:** Leaflet, ApexCharts
 - **Data Source:** <https://github.com/owid/covid-19-data/>
