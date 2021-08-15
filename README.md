@@ -1,6 +1,6 @@
 # Covid-19 Tracker
 
-This a web app to visualize the current condition of covid-19 around the world.
+This is a web app to visualize the current condition of covid-19 around the world.
 
 > [Live](https://covid-19-tracker-1234.web.app/)
 
