@@ -1,24 +1,10 @@
-# Interactive-Choropleth-Map-Vue-Leaflet
+# Covid-19 Tracker
 
-## Project setup
-```
-npm install
-```
+This a web app to visualize the current condition of covid-19 around the world.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+> [Live](https://covid-19-tracker-1234.web.app/)
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- **Faramework:** VueJS
+- **UI-Framework:** Vuetify
+- **Library:** Leaflet, ApexCharts
+- **Data Source:** <https://github.com/owid/covid-19-data/>
